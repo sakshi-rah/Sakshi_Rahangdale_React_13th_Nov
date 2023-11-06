@@ -4,7 +4,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import Cryptodataapi from './Component/Cryptodataapi';
 function App() {
   return (
-    <div className="App">
+    <div className="App m-2 p-2">
      <Cryptodataapi/>
     </div>
   );
